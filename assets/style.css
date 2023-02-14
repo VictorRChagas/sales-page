@@ -158,6 +158,12 @@ h2 strong {
     color: #FFFFFF;
 }
 
+.recipe-description {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Lato', serif;
+}
+
 .copywriting-section {
     background-color: rgb(16, 16, 16);
     color: #FFFFFF;
